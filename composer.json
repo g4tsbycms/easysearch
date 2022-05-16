@@ -1,0 +1,32 @@
+{
+  "name": "gmsystem/Easysearch",
+  "description": "Easy search engine, simple process optimization for social networks like Facebook, Instagram, Twitter etc",
+  "keywords": [
+    "GMSystem",
+    "ProlWeb",
+    "SEO",
+    "SMO",
+    "Meta Tags",
+    "Open Graph",
+    "Twitter Card",
+    "Facebook Tags"
+  ],
+  "homepage": "http://www.prolweb.com.br",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Genilson M. Souza",
+      "email": "gmsys@prolweb.com.br",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=8.0",
+    "ext-simplexml": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "GMSystem\\Easysearch\\": "src"
+    }
+  }
+}
