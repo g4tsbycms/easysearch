@@ -1,0 +1,3 @@
+# gmsystem-easysearch
+Easy search engine, simple optimization for social networks like Facebook, Instagram, Twitter etc... 
+very simple way to add tags and links for PHP's Systems
